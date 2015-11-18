@@ -1,0 +1,15 @@
+.account__list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 49px;
+}
+.account__item{
+    float: left;
+}
+.account{
+    float: right;
+}
+.header__care{
+    float: left;
+}

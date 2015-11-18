@@ -1,0 +1,9 @@
+.header__line{
+    height: 50px;
+}
+.header__care{
+    float: left;
+}
+.header__account{
+    float: right;
+}
